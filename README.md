@@ -4,10 +4,10 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ## Project Summary
-Play the infamous Rock-Paper-Scissors game with nural network trained AI.
+Play the infamous Rock-Paper-Scissors game with neural network trained AI.
 
 ## About The Project
-The pytho project showcases a simple game bulid through AI image processing and nural network. At it's core lies an image catagorizer, which segrigates images based on hand gesture into one of rock, paper or scissors. We are going to use a pre-trained convilation network called Squeez Net and utilize its outer layer. We will retrain the outer layer to recoginze our classifiactions. It scans the hand gestures first and then plays its turns based on how it has been trained. 
+The pytho project showcases a simple game bulid through AI image processing and nural network. At it's core lies an image catagorizer, which segrigates images based on hand gesture into one of rock, paper or scissors. We are going to use a pre-trained convolutional neural network called SqueezNet and utilize its outer layer. We will retrain the outer layer to recoginze our classifiactions. It scans the hand gestures first and then plays its turns based on how it has been trained. 
 
 ## How To Run The App
 1. Clone the repo and cd into the project directory.

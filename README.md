@@ -13,7 +13,7 @@ The pytho project showcases a simple game bulid through AI image processing and 
 1. Clone the repo and cd into the project directory.
 ```sh
 $ git clone https://github.com/Fahim-Azwad/AI-rock-paper-scissors.git
-$ cd rock-paper-scissors
+$ cd AI-rock-paper-scissors
 ```
 
 2. Install the dependencies
